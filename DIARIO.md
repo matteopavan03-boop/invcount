@@ -14,3 +14,8 @@
 - Fatto: intervista sul processo di inventario, corretto il dominio nel brief (ruoli, numerazione aree, singola/multipla, controlli, chiusura), scritti 11 requisiti in formato user story in docs/requisiti.md.
 - Imparato: prima di scrivere codice bisogna analizzare il lavoro con chi lo fa e scrivere requisiti chiari e verificabili, ordinati per priorità.
 - Non chiaro: niente
+
+## 2026-10-15 — INV-04 Primo progetto Spring Boot
+- Fatto: generato il backend con start.spring.io (Spring Boot 4.1.1, Java 21, Maven, package it.matteopavan.invcount.backend), avviato con mvnw, scritto il primo endpoint GET /ping con @RestController, letto il .gitignore, commit fdb2de0.
+- Imparato: Cosa va salvato su Git e cosa no
+- Non chiaro: I comandi PowerShell nuovi
